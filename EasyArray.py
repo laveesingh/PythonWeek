@@ -2,7 +2,6 @@
 class Array:
 
     alist = []  # Not encapsulated
-    __blist = []  # encapsulated
 
     def __init__(this):
         '''This is the official constructor method of  Array class'''
